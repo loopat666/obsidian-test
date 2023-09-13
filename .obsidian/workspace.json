@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "edec4d99dd0476e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/‘연락처로 카톡 염탐’ 방지... 카카오, 전화번호 친추 막는 기능 도입.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/My Note 1.md",
+                "file": "Notes/‘연락처로 카톡 염탐’ 방지... 카카오, 전화번호 친추 막는 기능 도입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/My Note 1.md",
+                "file": "Notes/‘연락처로 카톡 염탐’ 방지... 카카오, 전화번호 친추 막는 기능 도입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/My Note 1.md"
+                "file": "Notes/‘연락처로 카톡 염탐’ 방지... 카카오, 전화번호 친추 막는 기능 도입.md"
               }
             }
           }
@@ -146,10 +159,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "700a7b16187306f4",
+  "active": "edec4d99dd0476e6",
   "lastOpenFiles": [
-    "Images/Pasted.md",
+    "Images/20230914075830.png",
+    "Notes/‘연락처로 카톡 염탐’ 방지... 카카오, 전화번호 친추 막는 기능 도입.md",
     "Notes/My Note 1.md",
+    "Images/Pasted.md",
     "Images/20230914074425.png",
     "README.md",
     "Images",
