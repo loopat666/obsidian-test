@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2025a2897bd25453",
+        "id": "55366435af50ea08",
         "type": "tabs",
         "children": [
           {
-            "id": "23552d539a78cc52",
+            "id": "700a7b16187306f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,11 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "23552d539a78cc52",
+  "active": "700a7b16187306f4",
   "lastOpenFiles": [
-    "Images/Pasted image 20230914074425.png",
-    "README.md",
+    "Images/Pasted.md",
     "Notes/My Note 1.md",
+    "Images/20230914074425.png",
+    "README.md",
     "Images",
     "Notes"
   ]
