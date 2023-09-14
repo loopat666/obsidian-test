@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Note image test.md",
+                "file": "2023-09-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Note image test.md",
+                "file": "2023-09-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Note image test.md",
+                "file": "2023-09-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Note image test.md"
+                "file": "2023-09-14.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "edec4d99dd0476e6",
   "lastOpenFiles": [
-    "Images/Pasted image 20230914084618.png",
+    "Images/20230914090976.png",
     "Notes/Note image test.md",
+    "2023-09-14.md",
+    "Images/Pasted image 20230914084618.png",
     "Images/20230914080908.png",
     "Images/$FOR9오전T.png",
     "Images/{{DATE$FORMAT}}.png",
